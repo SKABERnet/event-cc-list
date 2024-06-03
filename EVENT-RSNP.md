@@ -22,7 +22,7 @@
 - Lucasth0msen
 - Huckle_TV
 - MinnaMumi
-- TrickedMinisterN,
+- TrickedMinisterN
 - ProGamerGurls
 - AndersB2000
 - Steelabstv
