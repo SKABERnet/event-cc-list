@@ -31,3 +31,27 @@
 - kjasperloop
 - fjallefar
 - minnamumi
+
+## 2018
+- kathrinejj
+- kregme
+- andersgoingftw
+- kjasper
+- narihnie
+- fjallefar
+- luyee
+
+## 2017
+- emmababen
+- feevo
+- fjallefar
+- alloushag
+- kathrinejj
+- luyee
+- kjasperloop
+- yom8
+- mimimimimichaela
+- andersgoingftw
+- jaxstyle
+- snal
+- buglezz
