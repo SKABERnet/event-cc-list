@@ -1,6 +1,7 @@
 # Gamebox Festival
 
 ## 2024
+### Streampo1nt
 - KillaKris
 - Yaraphina
 - Stryhn
@@ -31,6 +32,7 @@
 - Liladk
   
 ## 2023
+### Streampo1nt
 - Gamermom_93
 - Zooda
 - JeiluTV
@@ -52,6 +54,7 @@
 - DerpParrot
   
 ## 2022
+### Streampo1nt
 - gamermom_93
 - Tifferen
 - KIWIIBEAST
