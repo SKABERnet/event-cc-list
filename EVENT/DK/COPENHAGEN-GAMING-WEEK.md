@@ -1,4 +1,4 @@
-# Copenhagen Gaming Week
+# CGW / Copenhagen Gaming Week
 
 ## 2023
 ### Streampo1nt
