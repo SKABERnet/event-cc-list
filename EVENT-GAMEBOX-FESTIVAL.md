@@ -1,54 +1,6 @@
 # Gamebox Festival
 
-## 2022
-
-- gamermom_93
-- Tifferen
-- KIWIIBEAST
-- lazy_rick
-- Zaphina
-- Astralisministern
-- Michelledew1
-- JeiluTV
-- RambergGG
-- GesusWS
-- Kregme
-- Killakris
-- Wendelbolol
-- Toxicmettemor
-- RaiZe_Fax
-- andersb2000
-- Jyskgaming
-- MexiDK
-- Superpinkykitty
-- Sondergaardlol
-- Katrine
-- Whaazz
-
-## 2023
-
-- Gamermom_93
-- Zooda
-- JeiluTV
-- LilleNyys
-- lazy_rick
-- SimonNotlev
-- Melena_M
-- CamillaChu
-- GesusWS
-- Pandapigen46
-- Killakris
-- Miille
-- VanDC
-- Yaraphina
-- RambergGG
-- Huckle_TV
-- Stryhn
-- KibbieTV
-- DerpParrot
-
 ## 2024
-
 - KillaKris
 - Yaraphina
 - Stryhn
@@ -77,3 +29,48 @@
 - ChrisTurner
 - Wendelbolol
 - Liladk
+  
+## 2023
+- Gamermom_93
+- Zooda
+- JeiluTV
+- LilleNyys
+- lazy_rick
+- SimonNotlev
+- Melena_M
+- CamillaChu
+- GesusWS
+- Pandapigen46
+- Killakris
+- Miille
+- VanDC
+- Yaraphina
+- RambergGG
+- Huckle_TV
+- Stryhn
+- KibbieTV
+- DerpParrot
+  
+## 2022
+- gamermom_93
+- Tifferen
+- KIWIIBEAST
+- lazy_rick
+- Zaphina
+- Astralisministern
+- Michelledew1
+- JeiluTV
+- RambergGG
+- GesusWS
+- Kregme
+- Killakris
+- Wendelbolol
+- Toxicmettemor
+- RaiZe_Fax
+- andersb2000
+- Jyskgaming
+- MexiDK
+- Superpinkykitty
+- Sondergaardlol
+- Katrine
+- Whaazz
