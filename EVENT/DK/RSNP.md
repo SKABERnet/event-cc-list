@@ -1,4 +1,4 @@
-# RSNP
+# RSNP / Ringkøbing-Skjern NetParty
 
 ## 2023
 - KibbieTV
