@@ -1,20 +1,6 @@
 # RSNP
 
-## 2022
-
-- Minnamumi
-- Trickedminstern
-- AndersB2000
-- JeiluTV
-- ProGamerGurlz
-- ConnieHeinz
-- Fjallefar
-- Agge
-- bare_schou
-- stryhn
-
 ## 2023
-
 - KibbieTV
 - LeaUdenH
 - Pattedaddy1
@@ -27,3 +13,15 @@
 - AndersB2000
 - Steelabstv
 - Stryhn
+
+## 2022
+- Minnamumi
+- Trickedminstern
+- AndersB2000
+- JeiluTV
+- ProGamerGurlz
+- ConnieHeinz
+- Fjallefar
+- Agge
+- bare_schou
+- stryhn
