@@ -1,4 +1,4 @@
-# Copenhagen Games
+# CG / Copenhagen Games
 
 ## 2019
 - luluailurus
