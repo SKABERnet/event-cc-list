@@ -4,32 +4,32 @@
 ### Streampo1nt
 - KillaKris
 - Yaraphina
-- Stryhn
-- didmybestdkk
+- Stryhn (TwitchID: 89137656)
+- didmybestdkk (TwitchID: 852240397)
 - itzmulle
-- SimonNotlev
+- SimonNotlev (TwitchID: 60935812)
 - gh0shy
-- B_FloresDK
-- DenRigtigePotterXD
+- B_FloresDK (TwitchID: 893434436)
+- DenRigtigePotterXD (TwitchID: 31296387)
 - DenSpanskeDelfin
 - MsKittyCat
-- AnnePane
-- LilleNyys
+- AnnePane (TwitchID: 112710276)
+- LilleNyys (TwitchID: 656626830)
 - VanDC
-- Nilleren_
-- LiLouis
+- Nilleren_ (TwitchID: 148204418)
+- LiLouis (TwitchID: 95771334)
 - Gamertias
-- JappaDK
-- OverGorilla
-- SuperPinkyKitty
-- KibbieTV
+- JappaDK (TwitchID: 839905724)
+- OverGorilla (TwitchID: 235970668)
+- SuperPinkyKitty (TwitchID: 26348106)
+- KibbieTV (TwitchID: 191693042)
 - Miille
-- GesusWS
+- GesusWS (TwitchID: 84615002)
 - Myrkee
-- SofiaStunts
-- ChrisTurner
-- Wendelbolol
-- Liladk
+- SofiaStunts (TwitchID: 544167846)
+- ChrisTurner (TwitchID: 81429610)
+- Wendelbolol (TwitchID: 101963744)
+- Liladk (TwitchID: 532365760)
   
 ## 2023
 ### Streampo1nt
