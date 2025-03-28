@@ -1,6 +1,36 @@
 # CGW / Copenhagen Gaming Week
 
-## 2023
+## 2025
+### Streampo1nt
+- didmybestdkk
+- lilouis
+- mrs_yaps
+- nilleren_
+- b_floresdk
+- stryhn
+- melvixxen
+- annepane
+- melena_m
+- nicko_nation
+- denrigtigepotterxd
+- gesusws
+- camillachu
+- cinderbee
+- thereapztv
+- gh0shy
+- myrkee
+- bendixboy
+- isabella
+- vandc
+- pernille_hh
+- gamertias
+- mskittykat
+- kibbietv
+- maineeak
+- jules_dk
+- miille
+
+## 2024
 ### Streampo1nt
 - SimonNotlev
 - Miille
