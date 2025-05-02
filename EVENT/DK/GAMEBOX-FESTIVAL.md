@@ -96,6 +96,7 @@
 - B_FloresDK
 - Moonie_DK
 - Chassanra
+- PowerSixma
 
 ## 2024
 ### Streampo1nt
